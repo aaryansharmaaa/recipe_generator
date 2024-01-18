@@ -1,0 +1,105 @@
+.container{
+    text-align: center;
+}
+.recipeHeading{
+    color: rgb(130, 180, 130);
+}
+.tabs{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    cursor: pointer;
+}
+.tablist{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    color: black;
+    position: relative;
+}
+.svg{
+    font-size: 50px;
+}
+.active{
+    background-color:rgb(77, 161, 77);
+    color: white;
+}
+.active::after{
+    position: absolute;
+    content: '';
+    border-top: 30px solid rgb(77, 161,77);
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    bottom:-20px;  
+}
+.recipe_banner{
+    width: 80%;
+    margin: 20px auto;
+    height: 90vh;
+    display: flex;
+    gap: 40px;
+    background-color: rgb(14, 14, 57);
+    color: white;
+    gap: 100px;
+    border-radius: 20px;
+}
+.left-col{
+    width: 50%;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    margin-top: 60px;
+    margin-left: 40px;
+    padding: 20px;
+}
+.badge{
+    color: white;
+    background-color: aquamarine;
+    padding: 10px;
+    color:black;
+    font-size: 15px;
+    font-weight: 700;
+    border-radius: 20px;
+}
+.left-col p{
+    margin-top: -10px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.left-col h3{
+    margin-top: 10px;
+}
+
+.ingredients ul{
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: -40px;
+    gap: 40px;
+}
+.ingrifient ul li{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: calc(100% - 18px);
+    cursor: pointer;
+}
+.right-col{
+    width: 30%;
+    padding-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.image-wrapper{
+    height: 350px;
+    width: 350px;
+}
+.image-wrapper img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 100%;
+}
