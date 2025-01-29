@@ -1,8 +1,12 @@
 # A fully responsive recipe generator with over 10000+ recipes 
 </br>
+<b>
 Allowed user to search dishes online from more than 10000+ dishes
+</b>
 </br>
-![Screenshot 2025-01-28 200230](https://github.com/user-attachments/assets/3496c449-9004-4b69-bcb1-8735f95b1ca8)
+
+![Screenshot 2025-01-28 200230](https://github.com/user-attachments/assets/6e05bed7-3510-401c-88c1-a1635831d2f4)
+
 </br>
-THE SEARCH SECTION WHERE USER CAN SEARCH HIS DISHES.
-![Screenshot 2025-01-28 200512](https://github.com/user-attachments/assets/8e572f12-e316-413e-84cc-7a53b22a244d)
+<b>Saperate section to search the dishes online.</b>
+![Screenshot 2025-01-28 200512](https://github.com/user-attachments/assets/e8425802-5952-4c83-9758-0fd73767db60)
