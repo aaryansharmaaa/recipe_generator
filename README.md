@@ -11,3 +11,5 @@ Allowed user to search dishes online from more than 10000+ dishes
 <b>Saperate section to search the dishes online.</b>
 
 </br>
+
+![Screenshot 2025-01-28 200512](https://github.com/user-attachments/assets/5ef4ddbe-a85c-45fc-90d6-2c1a4dd120b4)
